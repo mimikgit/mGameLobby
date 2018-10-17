@@ -62,3 +62,4 @@ build/*
 deploy/deploy.sh
 .vscode/settings.json
 deploy/games-v1.tar
+deploy/index.js
